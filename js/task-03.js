@@ -25,4 +25,4 @@ galleryEL.insertAdjacentHTML("beforeend", makeListImage);
 
 galleryEL.style.listStyle = "none";
 galleryEL.style.display = "flex";
-listRef.style.flexWrap = "column";
+galleryEL.style.flexWrap = "column";
